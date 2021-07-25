@@ -6,3 +6,5 @@
 2. накатить скрипт init_table.sql на БД.
 3. дополнительных настроек для сборки, запуска приложения и юнит тестов не требуется, все по дефолту.
 4. swagger http://localhost:8080/swagger-ui.html
+5. данные для заполнения БД можно сгенерировать скриптом generate_sensor_data.py и отправить по REST например через
+   Postman (POST http://localhost:8080/api/save + data.json)
