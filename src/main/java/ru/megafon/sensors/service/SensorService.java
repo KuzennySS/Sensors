@@ -2,7 +2,7 @@ package ru.megafon.sensors.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ru.megafon.sensors.db.entity.RequestLatest;
+import ru.megafon.sensors.model.RequestLatest;
 import ru.megafon.sensors.db.entity.Sensor;
 import ru.megafon.sensors.db.repository.SensorRepository;
 

@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-import ru.megafon.sensors.db.entity.RequestLatest;
+import ru.megafon.sensors.model.RequestLatest;
 import ru.megafon.sensors.db.entity.Sensor;
 import ru.megafon.sensors.service.SensorService;
 

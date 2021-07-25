@@ -1,4 +1,4 @@
-package ru.megafon.sensors.db.entity;
+package ru.megafon.sensors.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
